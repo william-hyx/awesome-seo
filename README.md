@@ -29,7 +29,17 @@
   ![](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 </details>
 
+<details>
+  <summary>Stargazers over time</summary>
+  
+  [![Stargazers over time](https://starchart.cc/madawei2699/awesome-seo.svg)](https://starchart.cc/madawei2699/awesome-seo)
+</details>
+
 ---
+
+## 基础概念
+
+[![什么是SEO](https://img.bmpi.dev/227e91cc-a2a8-942e-19fe-8246d9a7abbd.png)](https://www.bmpi.dev/dev/what-is-seo/)
 
 ## 教程
 
@@ -70,11 +80,19 @@
 [The Authority Site Business Model](https://www.authorityhacker.com/what-is-an-authority-site/)
 > 英文内容站从建设到盈利的一条龙流程介绍文章。
 
-[什么是SEO](https://www.bmpi.dev/dev/what-is-seo/)
-> （软广来了）学习SEO两年，这是我写的一篇关于SEO介绍的文章。
+[零成本搭建SEO友好博客指南](https://www.bmpi.dev/series/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E7%8E%B0%E4%BB%A3%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)
+> 从零开始打造一个SEO友好的博客，涵盖博客搭建、SEO优化、订阅推送、国内及国外网站加载速度优化。
 
 [Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
 > 此篇文章详细讲解了如何分析网站访问日志来发现SEO中的问题。GA可以帮助我们了解用户访问情况，系统日志能帮助我们更好的了解爬虫请求、网站技术性SEO问题如301跳转等问题。
+
+### Google Ads
+
+[Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
+> Last updated: October 5, 2020. 了解每个行业的吸金能力。
+
+[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)
+> 了解热度，规避红海竞争。
 
 ## 工具
 
@@ -176,6 +194,14 @@
 [Warrior Forum](https://www.warriorforum.com/)
 
 > 以上社区我都没怎么混过，只是偶尔会看一些帖子，如果你们有好的社区可以给我PR。
+
+## 流量变现
+
+当有了一定的SEO流量（如月PV达1万），如何将SEO流量变现是个更重要的课题。一般来说我们可以通过广告平台如Google Adsense集成[互联网广告](https://www.bmpi.dev/dev/what-is-internet-advertising/)，这种英文CPM/CPC一般并不高（广告CPM/CPC取决于网站的内容/地区，不同内容广告的CPM/CPC范围介于$0.3-$2/$0.2-$15之间)，而中文站的流量广告价值更低（相比英文站）。
+
+[![](https://nitrocdn.com/PeiOvTsoVfAfszUghthruGjpwvDyviLS/assets/static/optimized/rev-ce680e7/wp-content/uploads/2018/10/diversification-of-revenue.jpg)](https://www.authorityhacker.com/what-is-an-authority-site/)
+
+流量网站的目的是提高[RPM](https://tg.bmpi.dev/web_cpc/420.html)，除了广告之外网站还可以接入Affiliate（类似国内淘宝客，你帮商家推广产品自己拿佣金或返利）和售卖实体或虚拟产品（会员、课程）来提高RPM。
 
 ## 其他
 
